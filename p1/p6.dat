@@ -1,0 +1,11 @@
+set PROD := Bife Frango Peixe Hamburger Macarrao Empada Esparguete Peru;
+
+param:      cost    vitA    vitC    vitB1   vitB2 :=
+Bife        319     60      20      10      15
+Frango      259     8       0       20      20
+Peixe       229     8       10      15      10
+Hamburger   229     40      40      35      10
+Macarrao    189     15      35      15      15
+Empada      199     70      30      15      15
+Esparguete  199     25      50      25      15
+Peru        249     60      20      15      10;

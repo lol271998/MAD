@@ -1,0 +1,7 @@
+set PROD := fitas bobinas;
+
+param:    rate profit market :=
+  fitas   200    25    6000
+  bobinas 140    30    4000 ;
+
+param avail := 40;
